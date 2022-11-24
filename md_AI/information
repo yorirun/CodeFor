@@ -1,0 +1,16 @@
+AI_00형식의 c++ 코드
+  --> 지도학습을 고의로 이상하게 해서 공감하는 역할(원래기능)에 오류 발생을 유도함
+        =ai의 학습이 중요하단 간단한 실험의 결과를 도출함
+        
+
+~~~의 python 코드
+   --> 비지도학습(머신*딥 러닝)을 이상하게 시켜서 표정인식에 문제가 생기게 유도함
+        =ai의 학습자료가 이상하거나 고의로 조작되어있다면 문제가 발생한단 실험 결과였음(작성중)
+        
+ ---------------------------------------------------------------------------------------------
+ c++ code forms like AI_00
+    --> It was an experiment. what I try to broke the Ai have learned some answers wrong
+       =It was a good result to learn something AI correctting is important
+       
+~~~'s python code
+    --> Because I didn't make a code, I cant cheack the result

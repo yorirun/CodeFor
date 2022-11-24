@@ -1,0 +1,23 @@
+
+// this is C++ file!
+
+#include <iostream> // cmd
+#include <stdio.h> // printf, scanf
+
+int b; //정수형 대답 b 생성
+
+void main()
+{
+    printf("당신의 기분은 어떤가요? \n"); //질문
+    printf("단 1=happy/ 2=sad \n"); //조건 제시
+    scanf_s("%d", &b); //대답 받음
+
+    if (b == 2) //조건 판별
+    {
+        printf("  answer-good!");
+    }
+    if (b == 1)
+    {
+        printf("  answer-...");
+    }
+}

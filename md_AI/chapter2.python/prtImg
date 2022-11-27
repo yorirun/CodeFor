@@ -1,0 +1,9 @@
+import numpy as np
+from PIL import Image
+
+img = Image.open("C:/") #file location
+img.show()
+
+"""
+ 이미지 출력여부 확인용 코드
+"""
